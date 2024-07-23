@@ -1,14 +1,6 @@
 # Furni.shop
 Furni.shop is a modern and elegant React-based e-commerce website template for building your own elegant e-commerce platform for furniture and interior design.
 
-## Table of Contents
-
-- [Features](#features)
-- [Components](#components)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Features
 
 - **Home:** The home page welcomes visitors to furni.shop and introduces them to our mission of creating modern interiors. It highlights our commitment to elegant, luxurious interior design and showcases the expertise of our professional interior designers.
@@ -45,28 +37,18 @@ The furni.shop project is organized into several React components:
 
 - **Footer:** The footer component provides navigation links, resources, pricing, FAQs, support, and other essential information.
 
-## Installation and Usage
+## Screenshots :- 
+![Screenshot (711)](https://github.com/user-attachments/assets/e1b218ab-4c52-4696-a145-9329eb400711)
+![Screenshot (712)](https://github.com/user-attachments/assets/afa3d8a5-fb75-4348-bbf7-69aa9bef6ebd)
+![Screenshot (713)](https://github.com/user-attachments/assets/4800c61e-6d4c-456d-aa41-189d0ebc489c)
+![Screenshot (714)](https://github.com/user-attachments/assets/f265f41a-6475-4622-8b0c-e7b5defd758b)
+![Screenshot (715)](https://github.com/user-attachments/assets/d688b0f8-42e5-4adf-9205-e33602ba5513)
+![Screenshot (716)](https://github.com/user-attachments/assets/6c9c4908-4405-4e80-add1-5273b0db4de0)
+![Screenshot (717)](https://github.com/user-attachments/assets/ba30b481-d16e-41c6-aed9-a8da7d359a12)
 
-To run the furni.shop project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/w1lqA/FurnitureShop-React-App.git`
-2. Navigate to the project directory: `cd FurnitureShop-React-App`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your web browser and visit: `http://localhost:3000`
 
-Feel free to customize the project to meet your specific requirements.
 
-## Contributing
 
-Contributions to furni.shop are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## Contact
 
-For any inquiries or questions, you can reach out to the project developer:
-
-- My profile: [w1lqA](https://github.com/w1lqA)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/w1lqA)
-- VK: [VK](https://vk.com/w1lqa)
-- Telegram: [Telegram](https://t.me/w1lqA)
-- Kwork: [Kwork](https://kwork.ru/user/w1lqa)
